@@ -1,5 +1,4 @@
-# INFERRING EPIDEMIC DYNAMICS USING GAUSSIAN PROCESS EMULATION OF
-AGENT-BASED MODELS
+# INFERRING EPIDEMIC DYNAMICS USING GAUSSIAN PROCESS EMULATION OF AGENT-BASED MODELS
 This code is for GP regression paper preprint using Python as a programming language and GPFLow library to fit the simulated data.
 
 ## Abstract
