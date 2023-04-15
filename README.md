@@ -1,5 +1,6 @@
-# COMPARING BEHAVIOR OF DISEASES USING SIMULATION BASED INFERENCE
-This code is for GP fitting paper preprint using Python as a programming language and GPFLow library to fit the simulated data.
+# INFERRING EPIDEMIC DYNAMICS USING GAUSSIAN PROCESS EMULATION OF
+AGENT-BASED MODELS
+This code is for GP regression paper preprint using Python as a programming language and GPFLow library to fit the simulated data.
 
 ## Abstract
 Computational models provide an option to help decision makers understand disease’s behavior and ultimately
