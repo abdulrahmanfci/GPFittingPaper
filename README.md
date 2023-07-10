@@ -11,3 +11,7 @@ data. Having synthetic data provide a standard ground which allows us to get com
 different diseases. In this paper we show (with Gaussian process help) that infectious diseases’ spreadness
 are different though they started from the very same initial population conditions. We believe this proposed
 method could help in developing a better way to understand infectious diseases.
+
+## Software requirements
+- Python 3.5
+- GPFlow library
